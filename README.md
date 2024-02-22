@@ -11,6 +11,8 @@ Link stations​ are located at points (x, y) and have reach (r) ([x, y, r]): (a
 [10, 0, 12]]
 
 *** how to run ***
+
+---------------------------------
 starting from the Container Folder
 Start the Back-End by running:
 cd Pathfinder
@@ -19,3 +21,4 @@ python manage.py runserver
 Start the Front-End by running:
 cd frontend
 npm start
+--------------------------------
